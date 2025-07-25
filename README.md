@@ -40,6 +40,6 @@ QuickSignature/
 3. Draw your signature, adjust settings, and save/download!
 
 ```bash
-git clone [https://github.com/yourusername/quick-signature.git](https://github.com/mayank26202/Quick-Signature-app.git)
+git clone https://github.com/mayank26202/Quick-Signature-app.git
 cd quick-signature
 open index.html
