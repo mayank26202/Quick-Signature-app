@@ -14,12 +14,10 @@ Quick Signature is a simple, browser-based tool that allows you to create, draw,
 
 ![Quick Signature Screenshot](./screenshot.png)
 
-> 📝 Make sure to replace `screenshot.png` with your actual screenshot file in the project root directory.
 
 ## 📂 Project Structure
 
 QuickSignature/
-│
 ├── index.html # Main HTML page
 ├── style.css # Styling using CSS and Bootstrap
 ├── script.js # Core drawing and logic handling
